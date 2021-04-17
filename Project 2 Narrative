@@ -1,1 +1,6 @@
-To show what I have learned about data structures & algorithms, and database, I have enhanced a MongoDB project. This project was written in Python and taught me how to implement CRUD method by incorporating MongoDB. I learned database concepts and principles, while developing a client/server program that interfaced for a rescue animal training database. I chose this artifact, because I felt that my work with Python and MongoDB shows my skills with the first programming language I learned (Python), as well as with SQL. While working on this database, I discovered bugs I had with authentication, and where I could not populate a pie chart previously. I also updated the color scheme of the pie chart to give the dashboard and more appealing look.
+To show what I have learned about data structures & algorithms, and database, I have enhanced a MongoDB project. 
+This project was written in Python and taught me how to implement CRUD method by incorporating MongoDB. 
+I learned database concepts and principles, while developing a client/server program that interfaced for a rescue animal training database. 
+I chose this artifact, because I felt that my work with Python and MongoDB shows my skills with the first programming language I learned (Python), 
+as well as with SQL. While working on this database, I discovered bugs I had with authentication, and where I could not populate a pie chart previously. 
+I also updated the color scheme of the pie chart to give the dashboard and more appealing look.
